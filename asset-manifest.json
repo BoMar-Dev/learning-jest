@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BoMar-Dev/learning-jest.git/static/css/main.423c9d44.css",
+    "main.js": "/BoMar-Dev/learning-jest.git/static/js/main.a4c3e0af.js",
+    "static/js/787.8710021f.chunk.js": "/BoMar-Dev/learning-jest.git/static/js/787.8710021f.chunk.js",
+    "index.html": "/BoMar-Dev/learning-jest.git/index.html",
+    "main.423c9d44.css.map": "/BoMar-Dev/learning-jest.git/static/css/main.423c9d44.css.map",
+    "main.a4c3e0af.js.map": "/BoMar-Dev/learning-jest.git/static/js/main.a4c3e0af.js.map",
+    "787.8710021f.chunk.js.map": "/BoMar-Dev/learning-jest.git/static/js/787.8710021f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.423c9d44.css",
+    "static/js/main.a4c3e0af.js"
+  ]
+}
